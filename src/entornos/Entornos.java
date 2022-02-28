@@ -19,7 +19,7 @@ public class Entornos {
         
         System.out.println("Escribe tu nombre");
         String nombre = sc.nextLine();
-        System.out.println("Hola "+nombre);
+        System.out.println("Hola "+nombre);//scanner añadido
     }
     
 }
